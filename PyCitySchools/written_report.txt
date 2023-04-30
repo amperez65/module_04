@@ -1,0 +1,7 @@
+What stood out the most to me was the scores based on school type. It was interesting to see that Charter school's had high test scores. Whether you are looking at the average math and reading scores, or if you look at the passing rates - the Charter schools did better than District schools.
+
+Since we know that Charter schools have higher passing rates, the next important thing to look at is spending. The highest spenders were public schools. So we can see that spending more per school (or per student), doesn't increase passing rates. 
+
+Last, when looking at school sizes versus passing rates. It appears that Small and Medium sized schools having better passing rates than Large schools. However, looking closer, there was only one Large school that had high/good passing rates (90.58% Overall Passing). The school size vs passing rates says more about the perfomance of District school (which are all large), than it does about the performance of schools based on sizes. The Large school with the good overall passing rates was a Charter school. So school size is really just an identical subset of Charter vs District schools.
+
+Overall: Charter schools are usually Small are Medium sized, and District schools are all large. Overall test scores are better at Charter schools than they are at District schools. Last, getting more more for you school/students doesn't guarantee higher test scores or passing rates. In fact, we know that Charter schools have less money, but their curriculum is better and yields better results (test scores).
